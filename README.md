@@ -8,7 +8,7 @@ This is the online multi-user prototype based on the working v2 offline workflow
 - `subregions.csv` — subregion master list
 - `supabase_schema.sql` — database table definition
 - `.env.example` — example database environment variables
-- `www/behaviour_flowchart.png` — copy this from the working v2 app before deploying
+- `www/behaviour_flowchart.png` — flowchart for behaviour scoring
 
 The application reads the master lists from the repository and stores shared scores in PostgreSQL/Supabase.
 
